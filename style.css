@@ -1,8 +1,13 @@
 .logo{
 	position: absolute;
-	left: 200px;
-	top: 200px;
+	left: 300px;
+	top: 250px;
 	width: 100px
 	height:150px;
 }
 
+.header {
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
